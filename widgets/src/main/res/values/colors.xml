@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_progress_hud">#ff404040</color>
+
+    <color name="subtransparent">#04000000</color>
+
+
+</resources>
